@@ -3,6 +3,9 @@
 Welcome! This repo exists so you can practice **forking, cloning, and contributing**
 without the stress of potentially breaking something.
 
+## General Advice
+Stay positive!
+
 ## What's in here
 
 This repo simulates a tiny, real-ish data science project:
